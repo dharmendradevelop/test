@@ -1,7 +1,7 @@
 <?php 
 require_once('connections.php');
 try{
-
+// justcheck
 // ===================== select query
 $selectquery="select * from admin";
 $stdetails=$dbcon->prepare($selectquery);
