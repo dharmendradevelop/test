@@ -9,5 +9,5 @@ $stmt->bindparam(':gender',$gender);
 $stmt->bindparam(':class',$class);
 $stmt->bindparam(':mobile',$mobile);
 $stmt->exicute();
-
+/// helo 
 ?>

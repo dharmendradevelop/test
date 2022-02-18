@@ -1,6 +1,6 @@
 <?php
 define('BASEPATH', true); //access connection script if you omit this line file will be blank
-require_once('connections.php'); //require connection script
+require_once('connections.php'); //require connection script pi
 
 if(isset($_POST['submit'])){  
           
